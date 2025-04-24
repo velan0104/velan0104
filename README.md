@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on MERN stack projects and currently learning spring boot development. <br>Fun Fact: I code better at 2AM than 2PM.
+I'm a recent BSc graduate with a knowledge of MERN Stack and deep enthusiast of learning new technology. Currently Learning Java development <br>Fun Fact: I code better at 2AM than 2PM.
 
 
 ## 🌐 Socials:
